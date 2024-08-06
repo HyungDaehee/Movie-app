@@ -1,0 +1,312 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: black;
+
+}
+
+.nav {
+    background: #333333;
+    padding: 1.5rem;
+    padding-right: 10rem;
+}
+
+.title {
+    color: brown !important;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.me-auto {
+    padding-left: 1.5rem;
+}
+
+.me-auto .a {
+    color: white;
+}
+
+.me-auto .a:hover {
+    color: red;
+}
+
+.cardcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 2rem;
+    padding-top: 3rem;
+    text-decoration: none;
+
+}
+
+.card {
+    border: none;
+}
+
+.movie-info {
+    background: black;
+}
+
+.infotitle {
+    color: white;
+    text-align: center;
+}
+
+.infoavg {
+    color: white;
+    text-align: center;
+}
+
+.banner {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+    white-space: pre-line;
+}
+
+.banner::before {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 80%;
+    content: '';
+    background: linear-gradient(to right, black, transparent);
+}
+
+.banner-content {
+    width: 100%;
+    margin-left: 20px;
+    z-index: 1;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.banner-content h1 {
+    font-weight: 600;
+}
+
+.banner-content p {
+    column-count: 2;
+}
+
+.link {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.detail {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.detailcard {
+    width: 22rem;
+    margin-top: 1.5rem;
+    margin-left: 10rem;
+}
+
+.detail-info {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15rem;
+
+}
+
+.detialtitle {
+    color: white;
+    margin-top: 1.5rem;
+}
+
+
+.detailrating {
+    padding-top: 1rem;
+}
+
+.detailgenre {
+    padding-top: 1rem;
+}
+
+.detailage {
+    padding-top: 1rem;
+}
+
+.detialoverview {
+    padding-top: 1rem;
+    color: white;
+    font-size: 15px;
+}
+
+
+.back {
+    margin-top: 2rem;
+    margin-left: 87rem;
+}
+
+.crd {
+    text-align: center;
+}
+
+.crdtitle {
+    color: white;
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+    padding-bottom: 2rem;
+}
+
+.crd-img {
+    width: 7rem;
+}
+
+.crd-name {
+    color: white;
+}
+
+.search-container {
+    color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+.search-bg {
+    margin: 50px 0;
+    width: 400px;
+    background-color: #212529;
+    opacity: 0.7;
+    height: 80px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    font-size: 20px;
+}
+
+.search-icon {
+    margin-right: 1.5rem;
+    color: brown;
+}
+
+.input {
+    outline: none;
+    font-size: inherit;
+    border: none;
+    width: 300px;
+    border-bottom: 1px solid brown !important;
+    background-color: #212529;
+    color: #fff;
+}
+
+.search-res {
+    text-align: center;
+    color: white;
+}
+
+.search-card {
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+
+.search-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.search-title {
+    color: white;
+    text-align: center;
+}
+
+.pagination {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5rem;
+}
+
+.button {
+    position: absolute;
+    width: 30rem;
+    font-size: 2rem;
+}
+
+
+
+.up{
+    position: relative;
+    top: 1rem;
+    left: 40%;
+}
+
+.reviews-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+.reviews-title{
+    width: 300px;
+    height: 40px;
+    border: 1px solid #fff;
+    background-color: brown;
+    color: #fff;
+    text-align: center;
+    line-height: 38px;
+    margin-right: 49rem;
+}
+
+.reviews{
+    width: 70rem;
+    padding: 10px;
+    margin-left: 2rem;
+    border: 1px solid #fff;
+}
+
+.reviews-name{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.reviews-content{
+    color: white;
+    white-space: pre-line;
+    font-size: 12px;
+}
+
+.loding {
+    display: flex;
+    justify-content: center;
+    margin-top: 15rem;
+    color: red;
+    font-size: 100px;
+    animation: spin 2s linear infinite;
+
+    
+}
+@keyframes spin {
+    from {
+      transform: rotate(0);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
