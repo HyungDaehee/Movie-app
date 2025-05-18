@@ -40,3 +40,4 @@ TMDB API를 활용하여 최신 영화, 인기 영화, 많이 본 영화 등 다
 <br>
 
 ## **배포 링크**
+https://movie-app-five-bice-63.vercel.app/
