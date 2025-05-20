@@ -18,9 +18,29 @@ TMDB API를 활용하여 최신 영화, 인기 영화, 많이 본 영화 등 다
 <br>
 
 ## **폴더구조**
-
-
-<br>
+📦src
+ ┣ 📂Components
+ ┃ ┣ 📜Banner.jsx
+ ┃ ┣ 📜Home.jsx
+ ┃ ┣ 📜HomeNavbar.jsx
+ ┃ ┣ 📜Moviedetail.jsx
+ ┃ ┣ 📜NowMovie.jsx
+ ┃ ┣ 📜PopularMovie.jsx
+ ┃ ┣ 📜SearchMovie.jsx
+ ┃ ┗ 📜TopRatedMovie.jsx
+ ┣ 📂redux
+ ┃ ┣ 📜apikey.js
+ ┃ ┣ 📜Movieaction.js
+ ┃ ┣ 📜MovieReducer.js
+ ┃ ┗ 📜Store.js
+ ┣ 📜App.css
+ ┣ 📜App.js
+ ┣ 📜App.test.js
+ ┣ 📜index.css
+ ┣ 📜index.js
+ ┣ 📜logo.svg
+ ┣ 📜reportWebVitals.js
+ ┗ 📜setupTests.js
 
 ---
 
