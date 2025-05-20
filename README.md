@@ -67,7 +67,7 @@ TMDB API를 활용하여 최신 영화, 인기 영화, 많이 본 영화 등 다
 
 ## 3. 인기 영화 목록<br>
 <li>상영 영화 중 인기 영화 순으로 영화 목록을 나열하였습니다.</li>
-<img  alt='스크린샷' width="700" src="[https://github.com/user-attachments/assets/866eda50-d6ca-499c-ae1b-34d86b169545](https://github.com/user-attachments/assets/77d3f598-9548-42af-9a98-05e8f7a2b72f)"/>
+<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/77d3f598-9548-42af-9a98-05e8f7a2b72f"/>
 
 <br>
 
