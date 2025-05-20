@@ -55,7 +55,7 @@ TMDB API를 활용하여 최신 영화, 인기 영화, 많이 본 영화 등 다
 ## 1. 메인 페이지 배너<br>
 <li>최신 상영 영화 중 가장 인기 있는 영화가 배너가 되도록 개발 하였습니다.</li>
 <li>인기 순위가 변경되게 되면 배너는 자동적으로 가장 인기 있는 영화로 변경되게 됩니다.</li>
-<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/4c3a6982-1ea4-4bd8-a829-2d8e17deaf83"/>
+<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/b08aac34-9d12-43f0-8410-9484086b1fbc"/>
 
 <br>
 
@@ -66,26 +66,26 @@ TMDB API를 활용하여 최신 영화, 인기 영화, 많이 본 영화 등 다
 <br>
 
 ## 3. 인기 영화 목록<br>
-<li>인기 영화 순으로 영화 목록을 나열하였습니다.</li>
-<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/866eda50-d6ca-499c-ae1b-34d86b169545"/>
+<li>상영 영화 중 인기 영화 순으로 영화 목록을 나열하였습니다.</li>
+<img  alt='스크린샷' width="700" src="[https://github.com/user-attachments/assets/866eda50-d6ca-499c-ae1b-34d86b169545](https://github.com/user-attachments/assets/77d3f598-9548-42af-9a98-05e8f7a2b72f)"/>
 
 <br>
 
 ## 4. 가장 많이 상영한 영화 목록<br>
 <li>가장 상영이 많은 순으로 영화 목록을 나열하였습니다.</li>
-<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/866eda50-d6ca-499c-ae1b-34d86b169545"/>
+<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/b174e25a-4d56-43be-8240-10ad999d3722"/>
 
 <br>
 
 ## 5. 영화 상세 페이지<br>
 <li>해당 영화를 클릭 시 제목, 개봉일, 장르, 과람가,  영화 내용, 출연진, 리뷰 등을 확인 할 수 있습니다.</li>
-<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/866eda50-d6ca-499c-ae1b-34d86b169545"/>
+<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/3b9700b5-4b23-40ea-afe7-2552ee239c08"/>
 
 <br>
 
 ## 6. 영화 검색
 <li>검색 기능을 통해 사용자가 원하는 영화를 직접 검색 할 수 있습니다,</li>
-<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/866eda50-d6ca-499c-ae1b-34d86b169545"/>
+<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/760ad5cb-4ec3-4a96-83e4-0225333c1f8d"/>
 
 ---
 
