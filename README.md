@@ -3,6 +3,7 @@
 최신 영화, 인기 영화, 많이 본 영화 등 다양한 콘텐츠를 한눈에!<br>
 영화 팬들을 위한 스마트한 리뷰 & 정보 플랫폼입니다.<br>
 개발기간 : 2023.10 ~ 2023.11(개인 프로젝트)
+
 <img  alt='스크린샷' width="600" src="https://github.com/user-attachments/assets/866eda50-d6ca-499c-ae1b-34d86b169545"/>
 
 ---
