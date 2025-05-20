@@ -4,7 +4,7 @@
 영화 팬들을 위한 스마트한 리뷰 & 정보 플랫폼입니다.<br>
 개발기간 : 2023.10 ~ 2023.11(개인 프로젝트)
 
-<img  alt='스크린샷' width="600" src="https://github.com/user-attachments/assets/866eda50-d6ca-499c-ae1b-34d86b169545"/>
+<img  alt='스크린샷' width="500" src="https://github.com/user-attachments/assets/866eda50-d6ca-499c-ae1b-34d86b169545"/>
 
 ---
 
