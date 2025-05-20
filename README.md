@@ -18,6 +18,7 @@ TMDB API를 활용하여 최신 영화, 인기 영화, 많이 본 영화 등 다
 <br>
 
 ## **폴더구조**
+
 📦src
  ┣ 📂Components
  ┃ ┣ 📜Banner.jsx
