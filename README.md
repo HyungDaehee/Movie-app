@@ -73,19 +73,19 @@ TMDB API를 활용하여 최신 영화, 인기 영화, 많이 본 영화 등 다
 
 ## 4. 가장 많이 상영한 영화 목록<br>
 <li>가장 상영이 많은 순으로 영화 목록을 나열하였습니다.</li>
-<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/b174e25a-4d56-43be-8240-10ad999d3722"/>
+<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/f9956baa-6eb1-4c73-8ef7-cca3eeaccabf"/>
 
 <br>
 
 ## 5. 영화 상세 페이지<br>
 <li>해당 영화를 클릭 시 제목, 개봉일, 장르, 과람가,  영화 내용, 출연진, 리뷰 등을 확인 할 수 있습니다.</li>
-<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/3b9700b5-4b23-40ea-afe7-2552ee239c08"/>
+<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/b7e9c629-c2a1-42d1-b310-fd85756a5f86"/>
 
 <br>
 
 ## 6. 영화 검색
 <li>검색 기능을 통해 사용자가 원하는 영화를 직접 검색 할 수 있습니다,</li>
-<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/760ad5cb-4ec3-4a96-83e4-0225333c1f8d"/>
+<img  alt='스크린샷' width="700" src="https://github.com/user-attachments/assets/5a32548d-cfb0-424d-a50c-5c894d76930b"/>
 
 ---
 
